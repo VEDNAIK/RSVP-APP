@@ -23,10 +23,9 @@ rsvp-app/
 ### 🔧 1. Clone and Setup
 
 ```bash
-git clone https://github.com/your-username/rsvp-app.git
+git clone https://github.com/VEDNAIK/RSVP-APP.git
 cd rsvp-app
 ```
-
 
 ### **🟦 2. Run the Backend API**
 
